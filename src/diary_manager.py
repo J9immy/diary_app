@@ -92,3 +92,4 @@ def format_entry(entry):
 # - delete an entry
 # - main() function with a menu
 # - teach the diary to keep secrets
+
