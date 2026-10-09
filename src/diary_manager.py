@@ -40,7 +40,7 @@ def prepare_diary_file(file_path):
     # Opening in append mode creates the file if it does not exist
     # and leaves any existing entries untouched.
     with open(full_path, 'a', encoding='utf-8'):
-        pass
+        pass  # Nothing to see here. This line is just enjoying the view.
 
     return full_path
 
