@@ -85,3 +85,8 @@ def format_entry(entry):
     """Return an entry tuple as a printable string."""
     entry_date, entry_text = entry
     return f'{entry_date}  {entry_text}'
+
+# TODO:
+# - search entries by keyword
+# - delete an entry
+# - main() function with a menu
