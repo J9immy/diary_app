@@ -12,10 +12,10 @@ DEFAULT_DIARY_FILE = 'diary.txt'
 def print_menu(current_file):
     """Display the main menu and the diary file currently in use."""
     print()
-    print('=' * 50)
+    print('=' * 40)
     print('DIARY ENTRY APPLICATION')
     print(f'Current diary file: {current_file}')
-    print('=' * 50)
+    print('=' * 40)
     print('1. Add a diary entry')
     print('2. View entries by date')
     print('3. View all entries')
