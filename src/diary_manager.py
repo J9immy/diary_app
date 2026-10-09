@@ -90,3 +90,4 @@ def format_entry(entry):
 # - search entries by keyword
 # - delete an entry
 # - main() function with a menu
+# - teach the diary to keep secrets
