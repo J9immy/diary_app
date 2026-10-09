@@ -86,6 +86,7 @@ def format_entry(entry):
     entry_date, entry_text = entry
     return f'{entry_date}  {entry_text}'
 
+
 # TODO:
 # - search entries by keyword
 # - delete an entry
