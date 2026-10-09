@@ -30,4 +30,4 @@ On macOS or Linux, use `python3 src/main.py`
 ## Author
 
 Jimmy Morrison
-Student Marymount University
+(Student Marymount University)
